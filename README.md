@@ -11,6 +11,7 @@ The goal of this project is to demonstrate how to use OpenAI's Python SDK.
 Written in Python 3.9.9. Packages used:
 
 - openai
+- python-dotenv
 
 Run in the console with `python ask.py` or in the web browser by calling `FLASK_APP=app`.
 
